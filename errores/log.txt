@@ -1,0 +1,10 @@
+INFO:root:El usuario a ha iniciado sesion el Wed Oct 25 17:07:21 2023
+INFO:root:El usuario a ha creado nueva el Wed Oct 25 17:07:31 2023
+INFO:root:El usuario abel ha iniciado sesion el Wed Oct 25 17:42:59 2023
+INFO:root:El usuario abel se ha autenticado en la base de datos el Wed Oct 25 17:42:59 2023
+INFO:root:El usuario abel ha creado la carpeta 'micarpeta' el Wed Oct 25 17:43:10 2023
+INFO:root:El usuario abel ha borrado la carpeta 'micarpeta' el Wed Oct 25 17:43:24 2023
+INFO:root:El usuario abel ha subido el archivo 'princesas.txt' el Wed Oct 25 17:43:36 2023
+INFO:root:El usuario a ha iniciado sesion el Thu Oct 26 08:56:48 2023
+INFO:root:El usuario a se ha autenticado en la base de datos el Thu Oct 26 08:56:49 2023
+INFO:root:El usuario a ha subido el archivo 'princesas.txt' el Thu Oct 26 08:56:59 2023
